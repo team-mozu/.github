@@ -6,7 +6,19 @@
 
 ## 📖 stack
 ### Frontend
-- 
+- vite
+- react
+- emotion
+- typescript
+- react router dom
+- react query
+- axios
+- prettier
+- eslint
+- husky
+- yarn workspace
+- yarn berry zero install
+  
 ### Backend
 - 
 
