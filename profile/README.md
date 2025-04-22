@@ -20,9 +20,17 @@
 - yarn berry zero install
   
 ### Backend
-- 
+- Node.js
+- NestJS
+- Typescript
+- Typeorm
+- MySQL
+- SSE
+- BFF(axios)
+- Jest
 
 ## ⚙️ Main features
-- 
+- 추가 예정
 
 ## 🔗 link
+- [모주(Mozu) 서비스 소개 페이지](https://discreet-cell-6a2.notion.site/Mozu-1c9892b0edfd806eac13ebb60592709f)
